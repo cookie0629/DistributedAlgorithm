@@ -1,0 +1,11 @@
+{
+  "nodes": {
+    "n1": "http://127.0.0.1:8001",
+    "n2": "http://127.0.0.1:8002",
+    "n3": "http://127.0.0.1:8003"
+  },
+  "heartbeat_interval_ms": 100,
+  "election_timeout_min_ms": 500,
+  "election_timeout_max_ms": 1000,
+  "rpc_timeout_ms": 200
+}
